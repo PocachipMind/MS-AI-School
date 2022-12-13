@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>48738</id>
+      <size>7</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-12-12 14:08:08.108803+00:00</created>
+      <updated>2022-12-12 14:10:44.042871+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>6</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>48738</id>
+          <start>0</start>
+          <stop>6</stop>
+          <url>https://app.cvat.ai/api/jobs/48738</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>bo400</username>
+        <email>rkdghdyd1130@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>kiwi</name>
+          <color>#bed2df</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2022-12-13 04:16:12.767948+00:00</dumped>
+  </meta>
+  <image id="0" name="kiwi_1.jpg" width="500" height="332">
+    <box label="kiwi" occluded="0" source="manual" xtl="0.00" ytl="29.22" xbr="251.91" ybr="220.28" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="102.27" ytl="199.74" xbr="295.06" ybr="307.28" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="245.99" ytl="0.68" xbr="459.32" ybr="101.61" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="265.83" ytl="57.76" xbr="471.50" ybr="240.46" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="kiwi_2.jpg" width="388" height="333">
+    <box label="kiwi" occluded="0" source="manual" xtl="186.13" ytl="23.40" xbr="343.91" ybr="177.68" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="8.81" ytl="8.74" xbr="171.82" ybr="201.07" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="132.70" ytl="162.70" xbr="298.88" ybr="311.72" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="kiwi_3.jpg" width="764" height="572">
+    <box label="kiwi" occluded="0" source="manual" xtl="391.27" ytl="106.11" xbr="748.02" ybr="504.23" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="32.72" ytl="91.12" xbr="400.86" ybr="428.69" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="kiwi_4.jpg" width="750" height="750">
+    <box label="kiwi" occluded="0" source="manual" xtl="419.42" ytl="189.47" xbr="708.73" ybr="498.43" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="166.27" ytl="309.75" xbr="534.20" ybr="620.28" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="43.63" ytl="158.02" xbr="425.71" ybr="461.48" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="kiwi_5.jpg" width="500" height="500">
+    <box label="kiwi" occluded="0" source="manual" xtl="238.73" ytl="84.38" xbr="456.76" ybr="333.86" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="165.36" ytl="189.73" xbr="399.11" ybr="411.95" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="38.52" ytl="142.03" xbr="240.83" ybr="346.44" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="kiwi_6.jpg" width="275" height="183">
+    <box label="kiwi" occluded="0" source="manual" xtl="73.13" ytl="63.29" xbr="130.13" ybr="120.07" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="114.76" ytl="69.82" xbr="170.20" ybr="130.05" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="110.54" ytl="10.00" xbr="155.80" ybr="71.73" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="57.79" ytl="9.01" xbr="110.54" ybr="66.36" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="49.16" ytl="113.55" xbr="120.51" ybr="176.09" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="0.24" ytl="103.00" xbr="49.35" ybr="170.52" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="7.72" ytl="54.66" xbr="63.54" ybr="110.67" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="16.35" ytl="16.30" xbr="63.16" ybr="60.99" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="0.00" ytl="0.76" xbr="27.10" ybr="51.78" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="0.05" ytl="56.39" xbr="18.85" ybr="115.09" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="54.14" ytl="0.57" xbr="118.60" ybr="23.39" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="kiwi_7.jpg" width="1200" height="795">
+    <box label="kiwi" occluded="0" source="manual" xtl="684.58" ytl="90.83" xbr="1143.75" ybr="525.83" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="432.92" ytl="337.50" xbr="834.58" ybr="748.33" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="162.92" ytl="342.50" xbr="447.08" ybr="686.67" z_order="0">
+    </box>
+    <box label="kiwi" occluded="0" source="manual" xtl="254.58" ytl="60.00" xbr="727.08" ybr="471.67" z_order="0">
+    </box>
+  </image>
+</annotations>
