@@ -33,7 +33,7 @@ class MyCustomDataset(Dataset): # Dataset 쓸 때 상속을 꼭 받아야 함.
         return file_name, bbox
 
     def __len__(self):
-        return len(self.data2csv)
+        return self.data_len
 
 temp = MyCustomDataset('./file_and_box_point.csv') # 파일 경로 입력
 
