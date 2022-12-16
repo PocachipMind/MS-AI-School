@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>4507</id>
+      <name>test</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-12-16 01:13:10.937275+00:00</created>
+      <updated>2022-12-16 01:13:33.831017+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>cat</name>
+          <color>#6080c0</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>dog</name>
+          <color>#406040</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>4692</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://infinyx.iptime.org:8080/?id=4692</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kang</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2022-12-16 01:46:51.933315+00:00</dumped>
+  </meta>
+  <image id="0" name="01.jpg" width="640" height="480">
+    <box label="dog" occluded="0" source="manual" xtl="468.94" ytl="92.01" xbr="640.00" ybr="340.46" z_order="0">
+    </box>
+    <box label="cat" occluded="0" source="manual" xtl="3.96" ytl="183.38" xbr="204.84" ybr="397.41" z_order="0">
+    </box>
+  </image>
+</annotations>
