@@ -7,4 +7,4 @@
 
 12.28 > Custom CSV 데이터셋 있습니다.(선생님이)
 
-1219Project > mymade 이미지 관련 Custom 데이터셋 있습니다. ( 선생님 )
+1219Project > mymade 이미지 관련 Custom 데이터셋 있습니다.
