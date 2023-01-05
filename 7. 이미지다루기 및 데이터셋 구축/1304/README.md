@@ -1,4 +1,4 @@
-### 간단한 Classification뷰프리뷰
+### 간단한 Classification 프리뷰
 
 Classification 
 
