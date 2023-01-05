@@ -13,3 +13,4 @@
 
 12.30 > 카드 분류.study란에 visualize_aug.py가 있음. < 12.30 이후로 커스텀 데이터셋을 많이 하였음 >
 
+13.04 > 간략한 Classification Free View가 있습니다.
