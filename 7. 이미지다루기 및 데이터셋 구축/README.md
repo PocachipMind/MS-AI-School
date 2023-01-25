@@ -20,7 +20,7 @@
 
 12.30 > 카드 분류.study란에 visualize_aug.py가 있음. < 12.30 이후로 커스텀 데이터셋을 많이 하였음 > , arg 설정 코드가 있습니다.
 
-13.03 > Data의 개수 보여주는 plt 있습니다.
+13.03 > Data의 개수 보여주는 plt 있습니다. ( data_split.py )
 
 13.04 > 간략한 Classification Free View가 있습니다.
 
