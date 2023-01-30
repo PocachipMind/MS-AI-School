@@ -1,0 +1,14 @@
+Microcontroller Detection/
+├── test
+│   ├── IMG_20181228_102636.jpg
+│   ...
+│   ├── IMG_20181228_102757.jpg
+│   └── IMG_20181228_102757.xml
+├── train
+│   ├── IMG_20181228_101826.jpg
+│   ├── IMG_20181228_101826.xml
+│   ...
+│   ├── IMG_20190104_165204.jpg
+│   └── IMG_20190104_165204.xml
+├── test_labels.csv
+└── train_labels.csv
