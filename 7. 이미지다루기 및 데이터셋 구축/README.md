@@ -37,3 +37,5 @@
 13.20 > Yolo 5 에서 모델 통해서 이미지 다루는 코드 
 
 13.25 > pdf로 yolo 사용방법 및 CVAT 관련 설명 있음. R-CNN 
+
+13.30 > mmdetection / voc_to_yolo
