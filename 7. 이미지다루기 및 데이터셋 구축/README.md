@@ -39,3 +39,5 @@
 13.25 > pdf로 yolo 사용방법 및 CVAT 관련 설명 있음. R-CNN 
 
 13.30 > mmdetection / voc_to_yolo
+
+14.01 > 프젝진행하며 - 폴더 명 변경/ json 시각화 
