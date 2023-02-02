@@ -39,7 +39,7 @@ for json_path in json_paths:
 
         # text file name
         img_name = image_info['ori_file_name']
-        img_name = img_name.replace('.jpg', ".text")
+        img_name = img_name.replace('.jpg', ".txt")
 
         for annotation in annotations:
             object_class = annotation['object_class']
