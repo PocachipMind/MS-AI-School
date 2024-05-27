@@ -3,7 +3,7 @@ from sklearn.preprocessing import *
 import numpy as np
 from numpy import *
 
-# pip install sklearn
+# pip install sklearn > 더이상 쓰이지 않으므로 pip install scikit-learn 으로 변경해서 입력.
 
 # 정규화
 # 전체구간을 0~100으로 설정하여 데이터를 관찰하는방법, 특정데이터의위치를확인할 수 있게해줍니다.
